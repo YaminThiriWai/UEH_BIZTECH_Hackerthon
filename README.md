@@ -34,7 +34,7 @@ Each of these uses pretrained AI models. Please read the model requirements belo
 
 ---
 
-### 😊 `facial_emotion_api.py` Requirements
+### `facial_emotion_api.py` Requirements
 
 1. **Facial Emotion Model**:
 
