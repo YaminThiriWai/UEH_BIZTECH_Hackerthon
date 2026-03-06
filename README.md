@@ -1,4 +1,8 @@
-## AI Models Required
+## UEH BizTech Hackathon 2025 – Top 20 + Consolation Prize
+
+This repository contains the AI backend services that I personally developed for our project in the UEH BizTech Hackathon 2025, where our team reached the Top 20 finalists and received a Consolation Prize.
+
+My role focused on building the AI inference APIs that power the system’s emotion analysis features.
 
 This project includes two backend Python files:
 
